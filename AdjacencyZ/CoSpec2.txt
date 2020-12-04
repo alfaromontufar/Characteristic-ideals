@@ -1,0 +1,9 @@
+Las siguientes graficas son coespectrales fuertes.
+With 2 vertices: 
+
+
+
+
+Con algebraic-corank 0: 0
+Con algebraic-corank 1: 0
+Total: 0

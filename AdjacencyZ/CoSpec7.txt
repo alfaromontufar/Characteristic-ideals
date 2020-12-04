@@ -1,0 +1,17 @@
+Las siguientes graficas son coespectrales fuertes.
+With 7 vertices: 
+
+[6] F?`fg F?bcw
+[6] F?bfw F?rew
+[6] FCQvg FCZMW
+
+
+
+Con algebraic-corank 0: 0
+Con algebraic-corank 1: 0
+Con algebraic-corank 2: 0
+Con algebraic-corank 3: 0
+Con algebraic-corank 4: 0
+Con algebraic-corank 5: 0
+Con algebraic-corank 6: 6
+Total: 6
